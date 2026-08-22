@@ -1,0 +1,116 @@
+{
+  "baseUrl": "https://owden.site",
+  "name": "Owden Godson Mwangama",
+  "shortName": "Owden",
+  "roles": "Machine Learning Engineer · Independent Researcher · Technology Entrepreneur",
+  "statement": "Building auditable, trustworthy AI systems and technology infrastructure with measurable public impact.",
+  "description": "Owden Godson Mwangama is a machine learning engineer, independent researcher, and technology entrepreneur working on trustworthy agentic systems and public-interest technology.",
+  "location": "Atlanta, United States · connected to Tanzania",
+  "photo": "img/og.png",
+  "links": {
+    "github": "https://github.com/owgee",
+    "linkedin": "https://www.linkedin.com/in/owden-godson/"
+  },
+  "education": [
+    {
+      "year": "2024",
+      "institution": "Emory University, Goizueta Business School",
+      "credential": "Master of Science in Business Analytics (STEM)",
+      "detail": "Graduate training spanning machine learning, deep learning, distributed computing, data systems, analytics, and organizational decision-making."
+    },
+    {
+      "year": "2014",
+      "institution": "University of Dar es Salaam",
+      "credential": "Bachelor of Science with Computer Science — with Honours, Second Class (Upper Division)",
+      "detail": "Awarded 8 November 2014. Undergraduate training across software, computing systems, and statistical methods."
+    }
+  ],
+  "certificates": [
+    {
+      "year": "2024",
+      "institution": "Google · Coursera",
+      "credential": "Google Project Management Professional Certificate",
+      "detail": "Completed 22 November 2024. Six-course certificate covering traditional and Agile project management.",
+      "href": "https://www.coursera.org/account/accomplishments/specialization/GQ7D56MPEF3U",
+      "linkLabel": "Verified credential"
+    },
+    {
+      "year": "2018",
+      "institution": "Google and Udacity",
+      "credential": "Google Mobile Web Specialist"
+    },
+    {
+      "year": "2018",
+      "institution": "HubSpot Academy",
+      "credential": "Inbound Marketing"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2024–present",
+      "organization": "Zillow",
+      "role": "Machine Learning Engineer",
+      "summary": "Engineering production agentic systems, evaluation pipelines, tool-use orchestration, and human-in-the-loop automation for real-estate workflows."
+    },
+    {
+      "period": "2019–present",
+      "organization": "Owden Consulting",
+      "role": "Founder · Remote advisory",
+      "summary": "Technology strategy, implementation advisory, and digital-transformation work."
+    },
+    {
+      "period": "2019–present",
+      "organization": "EMET Healthcare",
+      "role": "Co-founder · Board advisory",
+      "summary": "Strategic and technology guidance for accessible healthcare initiatives and platform development."
+    },
+    {
+      "period": "2014–2019",
+      "organization": "INETS",
+      "role": "Co-founder · Chief Creative Officer",
+      "summary": "Technology and creative leadership for systems addressing institutional and socioeconomic needs."
+    },
+    {
+      "period": "2016",
+      "organization": "ShuleSoft",
+      "role": "Co-founder",
+      "summary": "Co-founded a school-management platform for Tanzanian schools."
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Finalist, 2024 Wharton People Analytics Conference Case Competition",
+      "detail": "Selected with Emory’s Team HR Eagles to present in the competition’s final round."
+    },
+    {
+      "title": "MSBA Student Excellence in Business Acumen Award",
+      "detail": "Named a 2024 recipient by Emory University’s Goizueta Business School."
+    },
+    {
+      "title": "UC Berkeley School of Information MIMS Fellowship Package",
+      "detail": "Awarded with the Fall 2023 MIMS admission offer."
+    },
+    {
+      "title": "Chevening Scholarship interview shortlist",
+      "detail": "Selected by the British High Commission Dar es Salaam for interview in the 2023–2024 scholarship cycle."
+    },
+    {
+      "title": "First Prize — Mentoring, Sanitation Hackathon 2012",
+      "detail": "Member of Dream Team, recognized for its software solution at the Dar es Salaam hackathon."
+    }
+  ],
+  "capabilities": [
+    {
+      "label": "Machine learning and evaluation",
+      "items": ["Python", "TensorFlow", "scikit-learn", "Pandas", "NumPy", "LLM and agent evaluation"]
+    },
+    {
+      "label": "Software and data systems",
+      "items": ["JavaScript", "React", "Node.js", "PHP and Laravel", "PostgreSQL", "MySQL"]
+    },
+    {
+      "label": "Cloud and delivery",
+      "items": ["AWS", "GCP", "Docker", "Linux", "Git", "CI/CD"]
+    }
+  ]
+}

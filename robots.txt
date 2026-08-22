@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://owden.site/sitemap.xml

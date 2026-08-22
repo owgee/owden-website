@@ -1,0 +1,110 @@
+[
+  {
+    "group": "Research Systems",
+    "title": "EvoHakiki",
+    "problem": "Persistent agents need a governable way to propose change without also controlling the evidence, adjudication, and authority used to approve it.",
+    "role": "Independent researcher and system designer",
+    "system": "An auditable control plane for evidence-governed agent evolution, historically developed as Reflective Agent through v0.10.",
+    "outcome": "Phase I defines an architecture-and-methods contribution; Phase II empirical evaluation remains future work.",
+    "href": "research/evohakiki/",
+    "linkLabel": "Research program",
+    "featured": true
+  },
+  {
+    "group": "Production AI and Data Systems",
+    "title": "Production agentic AI and evaluation systems",
+    "problem": "Production workflows need agent behavior that is testable, observable, and subject to human review.",
+    "role": "Machine Learning Engineer",
+    "system": "Tool-use orchestration, evaluation pipelines, golden examples, and human-in-the-loop automation for real-estate workflows.",
+    "outcome": "Engineering and evaluation work supporting production-scale real-estate workflows.",
+    "featured": true
+  },
+  {
+    "group": "Production AI and Data Systems",
+    "title": "NiaFaker",
+    "problem": "Software teams working in African markets often lack realistic, locally formatted test data.",
+    "role": "Creator and maintainer",
+    "system": "An open-source Python package generating localized names, phone numbers, mobile-money data, and national identifiers for ten African economies.",
+    "outcome": "Publicly available source and package releases support reproducible use and review.",
+    "href": "https://github.com/owgee/niafaker",
+    "linkLabel": "Source repository",
+    "secondaryHref": "https://pypi.org/project/niafaker/",
+    "secondaryLabel": "PyPI package",
+    "featured": true
+  },
+  {
+    "group": "Production AI and Data Systems",
+    "title": "IBM Cognos Analytics and AI customer-service proposal for MultiChoice Tanzania",
+    "problem": "MultiChoice Tanzania was exploring ways to improve call-center efficiency and make better use of its sales and marketing data.",
+    "role": "Founding member · IBM partnership lead · Solution co-developer and presenter, DEFIGO Group Limited",
+    "system": "A two-part proposal: a CRM-integrated AI customer-service assistant with agent search, conversational AI, and speech-to-text; and IBM Cognos Analytics dashboards with mapping, promotion analysis, natural-language exploration, and forecasting.",
+    "outcome": "Presented the analytical solution to MultiChoice Tanzania leaders on 27 April 2022; positive feedback led to a requested follow-up with Operations, Marketing, and Customer Value Management. DEFIGO received IBM Business Partner approval later in 2022 following outreach led by Owden. The engagement remained at proposal stage.",
+    "cvSummary": "Founding member and IBM partnership lead. Co-developed a CRM-integrated AI customer-service and IBM Cognos Analytics proposal for MultiChoice Tanzania; presented 27 April 2022, prompting a requested cross-department follow-up.",
+    "href": "https://community.ibm.com/community/user/blogs/steven-macko/2017/11/06/new-base-samples-for-ibm-cognos-analytics-1108",
+    "linkLabel": "IBM Cognos context",
+    "secondaryHref": "https://www.ibm.com/think/insights/ai-for-call-center-modernization",
+    "secondaryLabel": "IBM customer-service AI context",
+    "featured": true,
+    "homepageFeatured": false
+  },
+  {
+    "group": "Production AI and Data Systems",
+    "title": "EveryListing.com property-data migration",
+    "problem": "A real-estate platform required a high-volume migration into a relational data system.",
+    "role": "Data engineering contributor",
+    "system": "A PostgreSQL migration pipeline for a large property dataset.",
+    "outcome": "Completed in February 2022 and received a five-star client review."
+  },
+  {
+    "group": "Digital Public Infrastructure",
+    "title": "Climate-smart agriculture platform",
+    "problem": "Agricultural programs needed better field data, plot mapping, and delivery support for climate-smart practices.",
+    "role": "Technology implementation",
+    "system": "A digital platform supporting the IMAP4CSA program and its farmer-facing operations.",
+    "outcome": "Kilimo Trust reports program results of 10,119 mapped plots containing 7,552 farmer profiles, 22,952 messages or digital-information items sent to 11,964 farmers, and 11,565 farmers trained.",
+    "href": "https://www.kilimotrust.org/blog/projects-7/iringa-mitigation-adaptation-productivity-for-climate-smart-agriculture-imap4csa-31",
+    "linkLabel": "Program source",
+    "featured": true
+  },
+  {
+    "group": "Digital Public Infrastructure",
+    "title": "BRELA Online Registration System",
+    "problem": "Business-registration services in Tanzania needed an online channel for institutional and public use.",
+    "role": "System contributor and launch presenter",
+    "system": "Work on BRELA’s online registration system through an earlier technology venture.",
+    "outcome": "Presented the system at the 2015 TNBC meeting at which it launched; linked BRELA materials provide institutional context.",
+    "href": "https://ors.brela.go.tz/ors",
+    "linkLabel": "BRELA system",
+    "secondaryHref": "https://www.tanzaniainvest.com/economy/interview-frank-kanyusi-ceo-brela",
+    "secondaryLabel": "BRELA interview",
+    "featured": true
+  },
+  {
+    "group": "Digital Public Infrastructure",
+    "title": "Secure payment systems",
+    "problem": "Digital services required payment integrations designed around established security and compliance controls.",
+    "role": "Engineering delivery",
+    "system": "Payment gateway integrations involving CyberSource, DPO, and PesaPal.",
+    "outcome": "Delivered payment integrations across institutional digital services."
+  },
+  {
+    "group": "Entrepreneurship and Social Impact",
+    "title": "ShuleSoft",
+    "problem": "Schools needed integrated administration, finance, academic, and communication workflows.",
+    "role": "Co-founder",
+    "system": "A school-management platform for Tanzanian institutions.",
+    "outcome": "The platform remains active and continues serving Tanzanian education institutions.",
+    "href": "https://shulesoft.africa/",
+    "linkLabel": "ShuleSoft",
+    "featured": true,
+    "cvFeatured": false
+  },
+  {
+    "group": "Entrepreneurship and Social Impact",
+    "title": "Healthcare technology",
+    "problem": "Healthcare platforms need ongoing technical stewardship after launch.",
+    "role": "Co-founder and board advisor, EMET Healthcare",
+    "system": "Technology guidance and platform development for healthcare access initiatives.",
+    "outcome": "Continues as board-level advisory work on platform direction and healthcare access."
+  }
+]

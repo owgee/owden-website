@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Owden Godson Mwangama · Research outputs</title>
+  <id>https://owden.site/publications/</id>
+  <link href="https://owden.site/feed.xml" rel="self"/>
+  <link href="https://owden.site/publications/"/>
+  <updated>2026-08-22T00:00:00Z</updated>
+  <author><name>Owden Godson Mwangama</name></author>
+  <entry>
+    <title>EvoHakiki: An Auditable Control Plane for Evidence-Governed Agent Evolution</title>
+    <id>https://owden.site/publications/evohakiki/</id>
+    <link href="https://owden.site/publications/evohakiki/"/>
+    <updated>2026-08-22T00:00:00Z</updated>
+    <category term="Manuscript in preparation"/>
+    <summary>A two-phase research program investigating how persistent agent change can be governed through evidence lineage, deterministic advisory policy, append-only human adjudication, and explicit separation between recommendation and external-action authority.</summary>
+  </entry>
+</feed>
