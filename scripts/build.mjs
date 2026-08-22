@@ -314,7 +314,7 @@ const evoResearchContent = `
         <h2>Research proposition</h2>
         <p>${escapeHtml(research.thesis[0])}</p>
         <p>${escapeHtml(research.thesis[1])}</p>
-        <div class="notice"><p><strong>Evidence boundary:</strong> Phase I describes architecture and methods. It does not establish longitudinal improvement, metacognition, complete containment, or safe autonomous promotion.</p></div>
+        <div class="notice"><p><strong>Evidence boundary:</strong> Phase I defines the architecture and governance model. Whether the system improves reliably and safely over time is the subject of Phase II.</p></div>
       </div>
     </div>
   </section>
