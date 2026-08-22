@@ -8,7 +8,7 @@
     "Human Oversight and Evidence Governance"
   ],
   "thesis": [
-    "Persistent agent change is not merely an optimization problem. It is also a chain-of-custody and authority problem.",
+    "Persistent agent change creates a governance problem: who controls the evidence, who judges the result, and who authorizes action?",
     "Systems that propose changes should not automatically gain authority to select their evidence, certify success, erase contrary outcomes, or authorize external action. The research program therefore treats evidence lineage, adjudication, policy, and action authority as distinct governance surfaces."
   ],
   "outputs": [
