@@ -258,8 +258,8 @@ const homeContent = `
       <p class="section-kicker">05 · Biography</p>
       <div class="prose">
         <h2 id="home-about-heading">Research informed by systems that must work beyond the lab.</h2>
-        <p>Owden Godson Mwangama is a Tanzanian-born machine learning engineer, independent researcher, and technology entrepreneur based in Atlanta. His background includes computer science and statistics, graduate study in business analytics, production machine-learning engineering, and technology delivery for institutions and communities in Africa.</p>
-        <p>His current research asks who should control the evidence and authority behind persistent agent change.</p>
+        <p>I am a Tanzanian-born machine learning engineer, independent researcher, and technology entrepreneur based in Atlanta. My background includes computer science and statistics, graduate study in business analytics, production machine-learning engineering, and technology delivery for institutions and communities in Africa.</p>
+        <p>My current research asks who should control the evidence and authority behind persistent agent change.</p>
         <div class="text-links">
           <a class="arrow-link internal-link" href="about/">Read the full biography</a>
           <a class="arrow-link" href="${site.links.github}" target="_blank">GitHub</a>
@@ -458,16 +458,16 @@ const speakingContent = `
   </section>`;
 
 const aboutContent = `
-  ${pageHero("Biography", "About", "Work in Tanzania and the United States has shaped a career across production engineering, public-interest technology, and independent research.")}
+  ${pageHero("Biography", "About", "My work in Tanzania and the United States spans production engineering, public-interest technology, and independent research.")}
   <section class="section">
     <div class="shell prose-grid">
       <p class="section-kicker">Narrative</p>
       <article class="prose">
         <h2>Systems, institutions, and accountable change.</h2>
-        <p>Owden Godson Mwangama is a Tanzanian-born machine learning engineer, independent researcher, and technology entrepreneur based in Atlanta. He earned a Bachelor of Science with Computer Science, with Honours, Second Class (Upper Division), from the University of Dar es Salaam. Graduate study in business analytics at Emory University later added deeper work in machine learning, data systems, distributed computing, and organizational decision-making.</p>
-        <p>His engineering work spans production machine-learning and agentic systems, data platforms, payment infrastructure, and digital services for institutions and communities. In Tanzania, he has contributed to technology ventures in education, healthcare, government services, and climate-smart agriculture. In the United States, he works on production machine-learning systems while continuing independent research.</p>
-        <p>That research examines governable autonomy: how agents can propose persistent change while evidence, adjudication, and external-action authority remain inspectable and separable. It focuses on keeping system behavior and change open to audit and human challenge.</p>
-        <p>Speaking, mentorship, advisory work, and educational outreach extend the same concern: technology should create durable institutional and public value, with claims proportionate to the evidence available.</p>
+        <p>I am a Tanzanian-born machine learning engineer, independent researcher, and technology entrepreneur based in Atlanta. I earned a Bachelor of Science with Computer Science, with Honours, Second Class (Upper Division), from the University of Dar es Salaam. I later completed graduate study in business analytics at Emory University, with deeper work in machine learning, data systems, distributed computing, and organizational decision-making.</p>
+        <p>My engineering work spans production machine-learning and agentic systems, data platforms, payment infrastructure, and digital services for institutions and communities. In Tanzania, I have contributed to technology ventures in education, healthcare, government services, and climate-smart agriculture. In the United States, I work on production machine-learning systems while continuing independent research.</p>
+        <p>My research examines governable autonomy: how agents can propose persistent change while evidence, adjudication, and external-action authority remain inspectable and separable. I focus on keeping system behavior and change open to audit and human challenge.</p>
+        <p>I bring the same standard to speaking, mentorship, advisory work, and educational outreach: technology should create durable institutional and public value, and claims about its impact should match the evidence.</p>
         <div class="text-links"><a class="arrow-link" href="${site.links.github}" target="_blank">GitHub</a><a class="arrow-link" href="${site.links.linkedin}" target="_blank">LinkedIn</a><a class="arrow-link internal-link" href="../cv/">Curriculum vitae</a></div>
       </article>
     </div>
