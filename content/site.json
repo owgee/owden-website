@@ -106,11 +106,11 @@
     },
     {
       "label": "Software and data systems",
-      "items": ["JavaScript", "React", "Node.js", "PHP and Laravel", "PostgreSQL", "MySQL"]
+      "items": ["JavaScript", "React", "Node.js", "PHP and Laravel", "PostgreSQL", "MySQL", "Databricks"]
     },
     {
-      "label": "Cloud and delivery",
-      "items": ["AWS", "GCP", "Docker", "Linux", "Git", "CI/CD"]
+      "label": "Cloud, delivery, and observability",
+      "items": ["AWS", "GCP", "Docker", "Linux", "Git", "CI/CD", "Datadog", "Splunk"]
     }
   ]
 }
