@@ -320,7 +320,7 @@ const evoResearchContent = `
   </section>
   <section class="section section-soft">
     <div class="shell">
-      ${sectionHeading("Two-phase program", "Architecture first; empirical claims only after matched evaluation.")}
+      ${sectionHeading("Two-phase program", "We focus on the architecture first, then test empirical claims through matched evaluation.")}
       <div class="phase-grid">
         <article class="phase phase-boundary">
           <span class="status">${escapeHtml(output.phaseOne.status)}</span>
